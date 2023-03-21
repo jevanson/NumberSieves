@@ -8,7 +8,8 @@
 [2] Pritchard, P. (1987). Linear prime-number sieves: A family tree. Science of Computer Programming, 9(1), 17–35. https://doi.org/10.1016/0167-6423(87)90024-4
 
 ## Sieves
-- [ ] Sieve of Eratosthenes
+- [ ] Sieve of Eratosthenes, O(nloglogn)
+- [ ] Sieve of Eratosthenes with pre-culling upto 19, and [wheel factorization](https://en.wikipedia.org/wiki/Wheel_factorization)
 - [x] Bengalloun's incremental sieve
 - [ ] Sieve of Pritchard
-- [ ] Sieve of Atkin
+- [ ] Sieve of Atkin, O(n)

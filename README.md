@@ -9,7 +9,7 @@
 
 ## [Prime Number Sieves](https://en.wikipedia.org/wiki/Generation_of_primes)
 - [ ] Sieve of Eratosthenes, O(nloglogn)
-- [ ] Sieve of Eratosthenes with pre-culling upto 19, and [wheel factorization](https://en.wikipedia.org/wiki/Wheel_factorization)
+- [ ] Sieve of Eratosthenes with pre-culling upto 19, segment buffers, and [wheel factorization](https://en.wikipedia.org/wiki/Wheel_factorization)
 - [x] Bengalloun's incremental sieve
 - [ ] Sieve of Pritchard
 - [ ] Sieve of Atkin, O(n)

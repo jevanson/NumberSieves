@@ -11,3 +11,4 @@
 - [ ] Sieve of Eratosthenes
 - [x] Bengalloun's incremental sieve
 - [ ] Sieve of Pritchard
+- [ ] Sieve of Atkin

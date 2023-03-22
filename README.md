@@ -1,8 +1,8 @@
 ## Bengalloun's incremental sieve [1]
   The set Pr(n) of primes less than or equal to n is available after O(n) operations. [2]
 
- > **Let** $N \in \mathbb{N}$ be an upper bound  
- > **Let** $LPF = {(n,0) \mid 0 \leq n < N + 1}$
+ > let $n \in \mathbb{N}$ be an upper bound  
+ > let $LPF = {(m,0) \mid 0 \leq m < n + 1}$
 
 ## References
 

@@ -11,8 +11,7 @@
 [3] Pritchard, P. (1981). A sublinear additive sieve for finding prime number. Communications of the ACM, 24(1), 18–23. https://doi.org/10.1145/358527.358540 
 
 ## [Prime Number Sieves](https://en.wikipedia.org/wiki/Generation_of_primes)
-- [ ] Sieve of Eratosthenes
+- [x] Sieve of Eratosthenes
 - [x] Pritchard's Wheel Sieve
 - [x] Bengalloun's incremental sieve
-- [ ] Sieve of Pritchard
 - [ ] Sieve of Atkin

@@ -1,7 +1,7 @@
 ## Bengalloun's incremental sieve [1]
   The set Pr(n) of primes less than or equal to n is available after O(n) operations. [2]
 
- > let N be an upper bound of natural numbers
+ > let N be an upper bound of natural numbers  
  > let LPF = {(n,0) such that 0 <= n < N + 1}
 
 ## References

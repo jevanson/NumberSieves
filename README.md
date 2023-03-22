@@ -2,7 +2,7 @@
   The set Pr(n) of primes less than or equal to n is available after O(n) operations. [2]
 
  > **Let** N be an upper bound of natural numbers  
- > **Let** LPF = {(n,0) such that 0 \leq n < N + 1}
+ > **Let** LPF = {(n,0) such that 0 $\leq$ n < N + 1}
 
 ## References
 
